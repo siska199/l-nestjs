@@ -1,1 +1,9 @@
 ---Note learn nest JS----
+
+1. Install Nest JS CLI:
+>>npm i -g @nestjs\cli
+
+2. Create new project:
+>>nest new <nama-project>
+
+3. Struktur folder:
